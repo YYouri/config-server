@@ -1,1 +1,2 @@
-configtest-dev.yml
+config_type:
+  sub_type: dev

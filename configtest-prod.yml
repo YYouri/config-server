@@ -1,1 +1,2 @@
-configtest-prod.yml
+config_type:
+  sub_type: prod
